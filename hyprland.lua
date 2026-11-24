@@ -67,8 +67,8 @@ hl.env("XCURSOR_SIZE", "24")
 hl.env("HYPRCURSOR_SIZE", "24")
 hl.env("QT_QPA_PLATFORMTHEME", "qt6ct")
 -- GPU fixes for better behaviour
-hl.env("AQ_DRM_DEVICES", "/dev/dri/by-path/pci-0000:05:00.0-card")
-hl.env("MESA_VK_DEVICE_SELECT", "1002:1900")
+-- hl.env("AQ_DRM_DEVICES", "/dev/dri/by-path/pci-0000:05:00.0-card")
+-- hl.env("MESA_VK_DEVICE_SELECT", "1002:1900")
 
 
 -----------------------
